@@ -1,6 +1,6 @@
 # Eric Emmanuel Bailey
 
-###### I enjoy learning  learn new things. I like to challenge myself. You can say that I am a bit of an enigma. But in the same cohort I am pretty much an open book. I'm hoping to become a freelance tester  and will end up being a senior software developer.
+###### I enjoy learning  learn new things. I like to challenge myself. You can say that I am a bit of an enigma. But in the same cohort I am pretty much an open book. I'm hoping to become a Jr. Web Developer.
 ---
 
 1. I hope to master Java Script
