@@ -1,0 +1,21 @@
+/* Class Selector */
+.box {
+    background-color: #f0f5ef;
+    border: 2px solid #4472b0;
+    color: #0e3248;
+    margin: 10px;
+    padding: 20px;
+}
+
+/* ID selector */
+#box1{ 
+    background-color: #f7b44e;
+    border: 2px solid #4472b0;
+    color: #0e3248;
+    margin: 10px;
+    padding: 20px;
+}
+/* Complex Selector */
+.box p {
+    color: #f7b44e;
+}
